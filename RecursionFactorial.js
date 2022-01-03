@@ -17,4 +17,5 @@ function findFactorialIterative(number) {
   }
   return answer;
 }
+findFactorialIterative(5);
 findFactorialRecursive(5);
